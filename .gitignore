@@ -361,3 +361,24 @@ MigrationBackup/
 
 # Fody - auto-generated XML schema
 FodyWeavers.xsd
+/WebApi/bin/Debug/net7.0/WebApi.pdb
+/WebApi/bin/Debug/net7.0/WebApi.exe
+/WebApi/bin/Debug/net7.0/WebApi.dll
+/WebApi/obj/WebApi.csproj.nuget.g.props
+/WebApi/obj/WebApi.csproj.nuget.dgspec.json
+/WebApi/obj/project.nuget.cache
+/WebApi/obj/project.assets.json
+/WebApi/.vs/WebApi/FileContentIndex/a5beb6ff-8c41-4d40-90e2-77eb2f5aeaf2.vsidx
+/WebApi/.vs/WebApi/FileContentIndex/878af7d3-adfb-434e-b515-42cc90cc1c54.vsidx
+/WebApi/.vs/WebApi/FileContentIndex/48291d93-d035-4d4d-88b6-2623b4bbf6cb.vsidx
+/WebApi/.vs/WebApi/FileContentIndex/067d3b6d-3b8e-457f-9143-0f55bd4cea56.vsidx
+/WebApi/.vs/WebApi/v17/.suo
+/WebApi/obj/Debug/net7.0/WebApi.pdb
+/WebApi/obj/Debug/net7.0/WebApi.genruntimeconfig.cache
+/WebApi/obj/Debug/net7.0/WebApi.GeneratedMSBuildEditorConfig.editorconfig
+/WebApi/obj/Debug/net7.0/WebApi.dll
+/WebApi/obj/Debug/net7.0/WebApi.csproj.FileListAbsolute.txt
+/WebApi/obj/Debug/net7.0/WebApi.csproj.CoreCompileInputs.cache
+/WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
+/WebApi/obj/Debug/net7.0/WebApi.assets.cache
+/WebApi/obj/Debug/net7.0/apphost.exe
