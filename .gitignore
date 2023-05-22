@@ -382,3 +382,5 @@ FodyWeavers.xsd
 /WebApi/obj/Debug/net7.0/WebApi.csproj.AssemblyReference.cache
 /WebApi/obj/Debug/net7.0/WebApi.assets.cache
 /WebApi/obj/Debug/net7.0/apphost.exe
+/WebApi/.vs/WebApi/DesignTimeBuild/.dtbcache.v2
+/WebApi/.vs/WebApi/v17/.futdcache.v2
