@@ -1,10 +1,10 @@
-﻿namespace WebApi.Models
+﻿namespace Entities
 {
-    public class AuthEmployee
+    public class AuthCandidate
     {
         public Guid Id { get; set; }
+        public Candidate Candidate { get; set; }
         public string Login { get; set; }
         public string Password { get; set; }
-        public Employee Employee { get; set; }
     }
 }

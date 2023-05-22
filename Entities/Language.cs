@@ -1,6 +1,6 @@
-﻿namespace WebApi.Models
+﻿namespace Entities
 {
-    public class FieldActivity
+    public class Language
     {
         public Guid Id { get; set; }
         public string Title { get; set; }

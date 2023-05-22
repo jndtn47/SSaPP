@@ -1,7 +1,8 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Entities;
+using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Sqlite;
 
-namespace WebApi.Models
+namespace WebApi
 {
     public class ApplicationContext : DbContext
     {

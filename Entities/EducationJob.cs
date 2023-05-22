@@ -1,4 +1,4 @@
-﻿namespace WebApi.Models
+﻿namespace Entities
 {
     public class EducationJob
     {

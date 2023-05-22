@@ -1,5 +1,6 @@
+using Entities;
 using Microsoft.EntityFrameworkCore;
-using WebApi.Models;
+using WebApi;
 
 var builder = WebApplication.CreateBuilder(args);
 string connection = builder.Configuration.GetConnectionString("DefaultConnection");
