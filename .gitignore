@@ -384,3 +384,6 @@ FodyWeavers.xsd
 /WebApi/obj/Debug/net7.0/apphost.exe
 /WebApi/.vs/WebApi/DesignTimeBuild/.dtbcache.v2
 /WebApi/.vs/WebApi/v17/.futdcache.v2
+/WebApi/bin/Debug/net7.0/WebApi.deps.json
+/WebApi/obj/Debug/net7.0/ref/WebApi.dll
+/WebApi/obj/Debug/net7.0/refint/WebApi.dll
